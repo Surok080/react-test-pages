@@ -13,8 +13,6 @@ import { ProtectedHistory } from './components/protected/protectedHistory';
 
 
 
-
-
 export class App extends Component {
 	render() {
 		return (
